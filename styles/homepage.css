@@ -176,6 +176,11 @@ p {
   font-size: 2rem;
   line-height: 1.25;
 }
+.btn-pink {
+  background-color: #f50aa8;
+  padding: 1rem 1.25rem;
+  border-bottom-width: 2px;
+}
 .btn-blue {
   background-color: #b2e3ff;
   padding: 1rem 1.25rem;
@@ -217,6 +222,9 @@ p {
 .bg-white {
   background-color: #fff;
 }
+.bg-pink {
+  background-color: #f50aa8;
+}
 .bg-blue-lighter {
   background-color: #b2e3ff;
 }
@@ -225,6 +233,9 @@ p {
 }
 .bg-gray {
   background-color: #eee;
+}
+.hover\:bg-pink-selected:hover {
+  background-color: #f59e0b;
 }
 .hover\:bg-blue-selected:hover {
   background-color: #75b9e0;
