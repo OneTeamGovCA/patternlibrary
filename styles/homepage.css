@@ -187,6 +187,7 @@ p {
   border-bottom-width: 2px;
 }
 .btn-blue,
+.btn-pink,
 .btn-light {
   font-weight: 700;
   text-decoration: none;
@@ -445,6 +446,9 @@ p {
 }
 .text-white {
   color: #fff;
+}
+.text-pink {
+  color: #4c2338
 }
 .text-blue {
   color: #26374a;
