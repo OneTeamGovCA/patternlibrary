@@ -177,7 +177,7 @@ p {
   line-height: 1.25;
 }
 .btn-pink {
-  background-color: #f50aa8;
+  background-color: #f787bf;
   padding: 1rem 1.25rem;
   border-bottom-width: 2px;
 }
@@ -224,16 +224,16 @@ p {
   background-color: #fff;
 }
 .bg-pink {
-  background-color: #f754a6;
+  background-color: #f787bf;
 }
 .bg-pink-lighter {
-  background-color: #f754a6;
+  background-color: #f787bf;
 }
 .bg-blue-lighter {
   background-color: #b2e3ff;
 }
 .bg-pink {
-  background-color: #4c2338;
+  background-color: #1b1719;
 }
 .bg-blue {
   background-color: #26374a;
@@ -242,7 +242,7 @@ p {
   background-color: #eee;
 }
 .hover\:bg-pink-selected:hover {
-  background-color: #f787bf;
+  background-color: #f754a6;
 }
 .hover\:bg-blue-selected:hover {
   background-color: #75b9e0;
