@@ -223,7 +223,10 @@ p {
   background-color: #fff;
 }
 .bg-pink {
-  background-color: #f50aa8;
+  background-color: #f754a6;
+}
+.bg-pink-lighter {
+  background-color: #f754a6;
 }
 .bg-blue-lighter {
   background-color: #b2e3ff;
@@ -235,7 +238,7 @@ p {
   background-color: #eee;
 }
 .hover\:bg-pink-selected:hover {
-  background-color: #f59e0b;
+  background-color: #f787bf;
 }
 .hover\:bg-blue-selected:hover {
   background-color: #75b9e0;
