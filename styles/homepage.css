@@ -648,3 +648,9 @@ button:focus {
     margin: 0.84rem 0;
     padding: 0; }
 
+.site-header { display:flex; align-items:center; gap:1rem; }
+.site-header .brand img { display:block; height:48px; width:auto; }
+.site-header .title { display:inline-flex; align-items:baseline; gap:.5rem; margin:0; line-height:1.1; font-size:1.25rem; }
+.site-header .title small { font-size:.875rem; font-weight:500; opacity:.8; }
+.site-header .lang { margin-left:auto; }
+@media (max-width:640px){ .site-header{flex-wrap:wrap} .site-header .lang{order:3;width:100%} }
